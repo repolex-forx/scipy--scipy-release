@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "scipy",
+  "repo": "scipy-release",
+  "versions": [
+    {
+      "commit": "924bf365cc5cbb39200fb7d565daa2e876b5dd1d",
+      "parsed_at": "2026-11-06T08:58:52.153039+00:00",
+      "filetree": "filetree/924bf365cc5cbb39200fb7d565daa2e876b5dd1d.nq.gz",
+      "blobs": [
+        "blob/c1c20e312aad3a2c01c6e572d6bcd7eb87b9380b.nq.gz",
+        "blob/5edc44f71451f98d5f2d8344951d796ba3cfd567.nq.gz",
+        "blob/952bd45831b7ade4b37dbaa934d0f74fdd2b88e2.nq.gz",
+        "blob/94806c79e0583e2fd9aeea5b446360ca638bdee9.nq.gz",
+        "blob/4e0626710d8af481477e902cea6ab775fa0e6c9f.nq.gz",
+        "blob/c2ab513da043eb570707d59af512090c4465b30a.nq.gz",
+        "blob/ce7214af49fcc7e502d1e933c197cd6b07bc7534.nq.gz",
+        "blob/7f7777b6f8e7b95f2e5b229525f36b0ff9bc9e84.nq.gz",
+        "blob/7ea6cf2ebb5e36f6104eaef661e36a9a28ef70dc.nq.gz",
+        "blob/0c1119e0c173a0abc8fe397e70d75699c4f57e52.nq.gz",
+        "blob/218676baa1899adb89dac086c88fc46ba0e6c90f.nq.gz",
+        "blob/4ec1ba55b2df2b5ffcc4221d91c7d87150dd2205.nq.gz",
+        "blob/54744f60b90a9c2f3f9e9c786c5bafd5c3ee6906.nq.gz",
+        "blob/1147c6df6589e24962b9c4a578ce148c14c9a45f.nq.gz",
+        "blob/1032aece8a8109d67f238de6865d8b08e750a8c0.nq.gz",
+        "blob/5d3b1e2f296b35e7ab56e4b2e9f3d61a4ff94ccc.nq.gz",
+        "blob/715d7ae95f336b0aa7c3ea3242cc93dd0f1d4cb4.nq.gz",
+        "blob/8c6c98fba4e1e5e925809f8b43be2394d74b56a5.nq.gz",
+        "blob/11fcfefdbd0ef80a9984e4078c6d202ac894aea0.nq.gz",
+        "blob/f3772e49751ef388b6d5a57afb1d886592562175.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
